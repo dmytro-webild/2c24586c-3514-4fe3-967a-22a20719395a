@@ -28,11 +28,11 @@ export default function Layout() {
     "href": "#contact"
   },
   {
-    "name": "Faq",
+    "name": "Česta pitanja",
     "href": "#faq"
   },
   {
-    "name": "Social Proof",
+    "name": "Iskustva",
     "href": "#social-proof"
   }
 ];
