@@ -13,6 +13,9 @@ import SocialProofSection from './HomePage/sections/SocialProof';
 import MetricsSection from './HomePage/sections/Metrics';
 import ContactSection from './HomePage/sections/Contact';
 
+
+{/* webild-stub @2026-06-19T13:36:02.950Z: <ATTACHED_BLOCKS> - block: image_url: https://storage.googleapis.com/webild/users/user_3FLnjyxNVNU3V6bHcoAKhd9oLJp/uploaded-1781876106801-nsylvmao.png </ATTACHED_BLOCKS> pregledaj sliku koja prikazuje pogrešku i popravi stranicu kako bi se  */}
+
 export default function HomePage(): React.JSX.Element {
   return (
 <>
