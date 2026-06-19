@@ -163,6 +163,7 @@ export default function HomePage() {
   <div id="social-proof" data-section="social-proof">
     <SectionErrorBoundary name="social-proof">
           <SocialProofMarquee
+      description="Naši zadovoljni klijenti i partneri s kojima smo uspješno surađivali."
       tag="Povjerenje"
       title="Radimo s provjerenim partnerima"
       names={[
@@ -181,6 +182,7 @@ export default function HomePage() {
   <div id="metrics" data-section="metrics">
     <SectionErrorBoundary name="metrics">
           <MetricsIconCards
+      description="Naši rezultati govore sami za sebe. Pogledajte naše ključne metrike."
       tag="Rezultati"
       title="Brojke koje govore za nas"
       metrics={[
